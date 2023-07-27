@@ -4,4 +4,4 @@ In this project, we created a project that can predict whether a patient has hea
 
 Clinical parameters:
 
-<img src="parameters.jpg" alt="parameters">
+<img src="parameters.png" alt="parameters">
